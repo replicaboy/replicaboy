@@ -41,7 +41,7 @@ I am a passionate Full-Stack Developer dedicated to building scalable web applic
 
 ### 📫 Let's Connect!
 - **GitHub:** [replicaboy](https://github.com/replicaboy)
-- *Add your LinkedIn/Email here*
+- *harikrdbg121@gmail.com*
 
 ---
 *“Code is like humor. When you have to explain it, it’s bad.”*
