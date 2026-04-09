@@ -26,7 +26,7 @@ I am a passionate Full-Stack Developer dedicated to building scalable web applic
 - **Key Features:** Real-time data visualization, secure authentication, and inventory management.
 - **Tech Used:** React, Node.js, Express, MongoDB.
 
-#### 💬 [Chodu Cid Chat](https://github.com/replicaboy/chodu-cid-chat)
+#### 💬 [Candy Chat](https://github.com/replicaboy/Candy-chat)
 *A real-time full-stack chat application.*
 
 ---
