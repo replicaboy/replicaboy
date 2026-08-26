@@ -21,7 +21,7 @@ I am a passionate Full-Stack Developer dedicated to building scalable web applic
 
 ### 🌟 Featured Projects
 
-#### 🛒 [Local Shop Dashboard](https://github.com/replicaboy)
+#### 🛒 [Local Shop Dashboard](https://github.com/radhethakur-07)
 *A production-ready dashboard built using the MERN stack to manage local shop inventories, sales, and analytics.*
 - **Key Features:** Real-time data visualization, secure authentication, and inventory management.
 - **Tech Used:** React, Node.js, Express, MongoDB.
@@ -40,7 +40,7 @@ I am a passionate Full-Stack Developer dedicated to building scalable web applic
 ---
 
 ### 📫 Let's Connect!
-- **GitHub:** [replicaboy](https://github.com/replicaboy)
+- **GitHub:** [radhethakur-07](https://github.com/radhethakur-07)
 - *harikrdbg121@gmail.com*
 
 ---
