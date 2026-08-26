@@ -21,7 +21,7 @@ I am a passionate Full-Stack Developer dedicated to building scalable web applic
 
 ### 🌟 Featured Projects
 
-#### 🛒 [Local Shop Dashboard](https://github.com/radhethakur-07)
+#### 🛒 [Local Shop Dashboard](https://github.com/radhethakur-07/shop-dashboard)
 *A production-ready dashboard built using the MERN stack to manage local shop inventories, sales, and analytics.*
 - **Key Features:** Real-time data visualization, secure authentication, and inventory management.
 - **Tech Used:** React, Node.js, Express, MongoDB.
